@@ -1,2 +1,2 @@
 # IIC2440
-José Thomas Caraball - IIC2440
+JT Caraball - IIC2440
